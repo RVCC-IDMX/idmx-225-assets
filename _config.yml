@@ -1,0 +1,11 @@
+title: IDMX-225 course assets
+description: Media host for IDMX-225 — browse assets and copy links.
+url: https://rvcc-idmx.github.io
+baseurl: /idmx-225-assets
+exclude:
+  - README.md
+  - NOTICE.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
